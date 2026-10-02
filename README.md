@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This is an attempt to finish assignment 2 of DATASCI 217 by Qiyun "Kevin" Zhu (kevin.zhu@ucsf.edu). It reads a .csv file that contains recordings of patient visits within a week, clean the data for implausible and missing values, and do some statistics based on cleaned data.
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+python3 clinic_report.py
 
 ## Files
 

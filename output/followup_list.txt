@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: I chose a cutoff value of 140 because Systolic BP of 140 mmHg or higher is considered Stage 2 Hypertension, thus worth following up with the patients to manage their blood pressure.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
